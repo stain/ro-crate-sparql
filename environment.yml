@@ -1,0 +1,10 @@
+name: ro-crate-sparql
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - notebook=6.5.4
+  - python=3.11.4
+  - rdflib==6.3.2
+
